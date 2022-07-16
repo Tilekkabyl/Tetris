@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Development\Windoww\SDLWindow\SDLWindow\Game.cpp(11,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Development\Windoww\SDLWindow\SDLWindow\Game.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SDLWindow.vcxproj -> C:\Development\Windoww\SDLWindow\x64\Debug\SDLWindow.exe
